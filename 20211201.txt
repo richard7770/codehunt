@@ -1,0 +1,438 @@
+
+Rute 1:
+------------------------------
+
+Post 1
+Placering: *** Udleveres ***
+Klartekst: Stuedørens bund
+Kodenøgle:
+abcdefghijklmnopqrstuvwxyzæøå
+juletræabcdfghikmnopqsvwxyzøå
+Kodetekst:
+juletræ: Opqteøntho uqhe
+
+Post 5
+Placering: Stuedørens bund
+Klartekst: I den blå tusch
+Kodenøgle:
+abcdefghijklmnopqrstuvwxyzæøå
+efghijklmnopqrstuvwxyzæøåabcd
+Kodetekst:
+a-e: M hir fpd xywgl
+
+Post 9
+Placering: I den blå tusch
+Klartekst: Knobbånd over tavlen
+Kodenøgle:
+abcdefghijklmnopqrstuvwxyzæøå
+juletræabcdfghikmnopqsvwxyzøå
+Kodetekst:
+juletræ: Dhiuuåhe istn pjsfth
+
+Post 13
+Placering: Knobbånd over tavlen
+Klartekst: Tændstikæsken ved økserne
+Kodetekst:
+morse: ///-/·-·-/-·/-··/···/-/··/-·-/·-·-/···/-·-/·/-·//···-/·/-··//---·/-·-/···/·/·-·/-·/·///
+
+Post 17
+Placering: Tændstikæsken ved økserne
+Klartekst: Under de røde kopper
+Kodenøgle:
+abcdefghijklmnopqrstuvwxyzæøå
+cdefghijklmnopqrstuvwxyzæøåab
+Kodetekst:
+a-c: Wpfgt fg tafg mqrrgt
+
+Post 21
+Placering: Under de røde kopper
+Klartekst: Under trappens andet trin
+Kodetekst:
+morse: ///··-/-·/-··/·/·-·//-/·-·/·-/·--·/·--·/·/-·/···//·-/-·/-··/·/-//-/·-·/··/-·///
+
+Post 100
+Placering: Under trappens andet trin
+Klartekst: *** SLUT ***
+Kodetekst:
+: *** SLUT ***
+
+Rute 2:
+------------------------------
+
+Post 6
+Placering: *** Udleveres ***
+Klartekst: I den røde tusch
+Kodenøgle:
+abcdefghijklmnopqrstuvwxyzæøå
+stuvwxyzæøåabcdefghijklmnopqr
+Kodetekst:
+a-s: Æ vwc gqvw ijhuz
+
+Post 10
+Placering: I den røde tusch
+Klartekst: Knobbånd bag køleskab
+Kodenøgle:
+abcdefghijklmnopqrstuvwxyzæøå
+vinterabcdfghjklmopqsuwxyzæøå
+Kodetekst:
+vinter: Fjkiiåjt iva føgepfvi
+
+Post 14
+Placering: Knobbånd bag køleskab
+Klartekst: Tændstikæsken ved komfuret
+Kodetekst:
+morse: ///-/·-·-/-·/-··/···/-/··/-·-/·-·-/···/-·-/·/-·//···-/·/-··//-·-/---/--/··-·/··-/·-·/·/-///
+
+Post 18
+Placering: Tændstikæsken ved komfuret
+Klartekst: Under kassen med klude
+Kodenøgle:
+abcdefghijklmnopqrstuvwxyzæøå
+ghijklmnopqrstuvwxyzæøåabcdef
+Kodetekst:
+a-g: Ætjkx qgyykt skj qræjk
+
+Post 22
+Placering: Under kassen med klude
+Klartekst: Under trappens første trin
+Kodetekst:
+morse: ///··-/-·/-··/·/·-·//-/·-·/·-/·--·/·--·/·/-·/···//··-·/---·/·-·/···/-/·//-/·-·/··/-·///
+
+Post 2
+Placering: Under trappens første trin
+Klartekst: Køleskabets håndtag
+Kodenøgle:
+abcdefghijklmnopqrstuvwxyzæøå
+vinterabcdfghjklmopqsuwxyzæøå
+Kodetekst:
+vinter: Føgepfvieqp båjtqva
+
+Post 100
+Placering: Køleskabets håndtag
+Klartekst: *** SLUT ***
+Kodetekst:
+: *** SLUT ***
+
+Rute 3:
+------------------------------
+
+Post 11
+Placering: *** Udleveres ***
+Klartekst: Knobbånd på knagerækken
+Kodenøgle:
+abcdefghijklmnopqrstuvwxyzæøå
+abehåndcfgijklmopqrstuvwxyzæø
+Kodetekst:
+abehånd: Ilmbbølh oø iladåqziiål
+
+Post 15
+Placering: Knobbånd på knagerækken
+Klartekst: Tændstikæsken ved håndvasken
+Kodetekst:
+morse: ///-/·-·-/-·/-··/···/-/··/-·-/·-·-/···/-·-/·/-·//···-/·/-··//····/·--·-/-·/-··/···-/·-/···/-·-/·/-·///
+
+Post 19
+Placering: Tændstikæsken ved håndvasken
+Klartekst: Under de blå tallerkener
+Kodenøgle:
+abcdefghijklmnopqrstuvwxyzæøå
+mnopqrstuvwxyzæøåabcdefghijkl
+Kodetekst:
+a-m: Dzpqa pq nxl cmxxqawqzqa
+
+Post 23
+Placering: Under de blå tallerkener
+Klartekst: Under trappens tredje trin
+Kodetekst:
+morse: ///··-/-·/-··/·/·-·//-/·-·/·-/·--·/·--·/·/-·/···//-/·-·/·/-··/·---/·//-/·-·/··/-·///
+
+Post 3
+Placering: Under trappens tredje trin
+Klartekst: Hoveddørens hængsel
+Kodenøgle:
+abcdefghijklmnopqrstuvwxyzæøå
+abehåndcfgijklmopqrstuvwxyzæø
+Kodetekst:
+abehånd: Cmuåhhæqålr czldråj
+
+Post 7
+Placering: Hoveddørens hængsel
+Klartekst: I den sorte tusch
+Kodenøgle:
+abcdefghijklmnopqrstuvwxyzæøå
+vwxyzæøåabcdefghijklmnopqrstu
+Kodetekst:
+a-v: A yzf kgjlz lmkxå
+
+Post 100
+Placering: I den sorte tusch
+Klartekst: *** SLUT ***
+Kodetekst:
+: *** SLUT ***
+
+Rute 4:
+------------------------------
+
+Post 16
+Placering: *** Udleveres ***
+Klartekst: Tændstikæsken i vindueskarmen
+Kodetekst:
+morse: ///-/·-·-/-·/-··/···/-/··/-·-/·-·-/···/-·-/·/-·//··//···-/··/-·/-··/··-/·/···/-·-/·-/·-·/--/·/-·///
+
+Post 20
+Placering: Tændstikæsken i vindueskarmen
+Klartekst: Under de røde tallerkener
+Kodenøgle:
+abcdefghijklmnopqrstuvwxyzæøå
+yzæøåabcdefghijklmnopqrstuvwx
+Kodetekst:
+a-y: Piøåm øå mwøå oyggåmfåiåm
+
+Post 24
+Placering: Under de røde tallerkener
+Klartekst: Under trappens fjerde trin
+Kodetekst:
+morse: ///··-/-·/-··/·/·-·//-/·-·/·-/·--·/·--·/·/-·/···//··-·/·---/·/·-·/-··/·//-/·-·/··/-·///
+
+Post 4
+Placering: Under trappens fjerde trin
+Klartekst: Værkstedsdørens nøglehul
+Kodenøgle:
+abcdefghijklmnopqrstuvwxyzæøå
+æbleskiwacdfghjmnopqrtuvxyzøå
+Kodetekst:
+æbleskiw: Tzodpqsepeøoshp høifswrf
+
+Post 8
+Placering: Værkstedsdørens nøglehul
+Klartekst: I den grønne tusch
+Kodenøgle:
+abcdefghijklmnopqrstuvwxyzæøå
+hijklmnopqrstuvwxyzæøåabcdefg
+Kodetekst:
+a-h: P klu nyfuul æøzjo
+
+Post 12
+Placering: I den grønne tusch
+Klartekst: Knobbånd ved udklædning
+Kodenøgle:
+abcdefghijklmnopqrstuvwxyzæøå
+æbleskiwacdfghjmnopqrtuvxyzøå
+Kodetekst:
+æbleskiw: Dhjbbåhe tse redfzehahi
+
+Post 100
+Placering: Knobbånd ved udklædning
+Klartekst: *** SLUT ***
+Kodetekst:
+: *** SLUT ***
+
+Gruppe 1:
+------------------------------
+
+Post 1
+Placering: *** Udleveres ***
+Klartekst: Stuedørens bund
+Kodenøgle:
+abcdefghijklmnopqrstuvwxyzæøå
+juletræabcdfghikmnopqsvwxyzøå
+Kodetekst:
+juletræ: Opqteøntho uqhe
+
+Post 2
+Placering: Under trappens første trin
+Klartekst: Køleskabets håndtag
+Kodenøgle:
+abcdefghijklmnopqrstuvwxyzæøå
+vinterabcdfghjklmopqsuwxyzæøå
+Kodetekst:
+vinter: Føgepfvieqp båjtqva
+
+Post 3
+Placering: Under trappens tredje trin
+Klartekst: Hoveddørens hængsel
+Kodenøgle:
+abcdefghijklmnopqrstuvwxyzæøå
+abehåndcfgijklmopqrstuvwxyzæø
+Kodetekst:
+abehånd: Cmuåhhæqålr czldråj
+
+Post 4
+Placering: Under trappens fjerde trin
+Klartekst: Værkstedsdørens nøglehul
+Kodenøgle:
+abcdefghijklmnopqrstuvwxyzæøå
+æbleskiwacdfghjmnopqrtuvxyzøå
+Kodetekst:
+æbleskiw: Tzodpqsepeøoshp høifswrf
+
+Gruppe 2:
+------------------------------
+
+Post 5
+Placering: Stuedørens bund
+Klartekst: I den blå tusch
+Kodenøgle:
+abcdefghijklmnopqrstuvwxyzæøå
+efghijklmnopqrstuvwxyzæøåabcd
+Kodetekst:
+a-e: M hir fpd xywgl
+
+Post 6
+Placering: *** Udleveres ***
+Klartekst: I den røde tusch
+Kodenøgle:
+abcdefghijklmnopqrstuvwxyzæøå
+stuvwxyzæøåabcdefghijklmnopqr
+Kodetekst:
+a-s: Æ vwc gqvw ijhuz
+
+Post 7
+Placering: Hoveddørens hængsel
+Klartekst: I den sorte tusch
+Kodenøgle:
+abcdefghijklmnopqrstuvwxyzæøå
+vwxyzæøåabcdefghijklmnopqrstu
+Kodetekst:
+a-v: A yzf kgjlz lmkxå
+
+Post 8
+Placering: Værkstedsdørens nøglehul
+Klartekst: I den grønne tusch
+Kodenøgle:
+abcdefghijklmnopqrstuvwxyzæøå
+hijklmnopqrstuvwxyzæøåabcdefg
+Kodetekst:
+a-h: P klu nyfuul æøzjo
+
+Gruppe 3:
+------------------------------
+
+Post 9
+Placering: I den blå tusch
+Klartekst: Knobbånd over tavlen
+Kodenøgle:
+abcdefghijklmnopqrstuvwxyzæøå
+juletræabcdfghikmnopqsvwxyzøå
+Kodetekst:
+juletræ: Dhiuuåhe istn pjsfth
+
+Post 10
+Placering: I den røde tusch
+Klartekst: Knobbånd bag køleskab
+Kodenøgle:
+abcdefghijklmnopqrstuvwxyzæøå
+vinterabcdfghjklmopqsuwxyzæøå
+Kodetekst:
+vinter: Fjkiiåjt iva føgepfvi
+
+Post 11
+Placering: *** Udleveres ***
+Klartekst: Knobbånd på knagerækken
+Kodenøgle:
+abcdefghijklmnopqrstuvwxyzæøå
+abehåndcfgijklmopqrstuvwxyzæø
+Kodetekst:
+abehånd: Ilmbbølh oø iladåqziiål
+
+Post 12
+Placering: I den grønne tusch
+Klartekst: Knobbånd ved udklædning
+Kodenøgle:
+abcdefghijklmnopqrstuvwxyzæøå
+æbleskiwacdfghjmnopqrtuvxyzøå
+Kodetekst:
+æbleskiw: Dhjbbåhe tse redfzehahi
+
+Gruppe 4:
+------------------------------
+
+Post 13
+Placering: Knobbånd over tavlen
+Klartekst: Tændstikæsken ved økserne
+Kodetekst:
+morse: ///-/·-·-/-·/-··/···/-/··/-·-/·-·-/···/-·-/·/-·//···-/·/-··//---·/-·-/···/·/·-·/-·/·///
+
+Post 14
+Placering: Knobbånd bag køleskab
+Klartekst: Tændstikæsken ved komfuret
+Kodetekst:
+morse: ///-/·-·-/-·/-··/···/-/··/-·-/·-·-/···/-·-/·/-·//···-/·/-··//-·-/---/--/··-·/··-/·-·/·/-///
+
+Post 15
+Placering: Knobbånd på knagerækken
+Klartekst: Tændstikæsken ved håndvasken
+Kodetekst:
+morse: ///-/·-·-/-·/-··/···/-/··/-·-/·-·-/···/-·-/·/-·//···-/·/-··//····/·--·-/-·/-··/···-/·-/···/-·-/·/-·///
+
+Post 16
+Placering: *** Udleveres ***
+Klartekst: Tændstikæsken i vindueskarmen
+Kodetekst:
+morse: ///-/·-·-/-·/-··/···/-/··/-·-/·-·-/···/-·-/·/-·//··//···-/··/-·/-··/··-/·/···/-·-/·-/·-·/--/·/-·///
+
+Gruppe 5:
+------------------------------
+
+Post 17
+Placering: Tændstikæsken ved økserne
+Klartekst: Under de røde kopper
+Kodenøgle:
+abcdefghijklmnopqrstuvwxyzæøå
+cdefghijklmnopqrstuvwxyzæøåab
+Kodetekst:
+a-c: Wpfgt fg tafg mqrrgt
+
+Post 18
+Placering: Tændstikæsken ved komfuret
+Klartekst: Under kassen med klude
+Kodenøgle:
+abcdefghijklmnopqrstuvwxyzæøå
+ghijklmnopqrstuvwxyzæøåabcdef
+Kodetekst:
+a-g: Ætjkx qgyykt skj qræjk
+
+Post 19
+Placering: Tændstikæsken ved håndvasken
+Klartekst: Under de blå tallerkener
+Kodenøgle:
+abcdefghijklmnopqrstuvwxyzæøå
+mnopqrstuvwxyzæøåabcdefghijkl
+Kodetekst:
+a-m: Dzpqa pq nxl cmxxqawqzqa
+
+Post 20
+Placering: Tændstikæsken i vindueskarmen
+Klartekst: Under de røde tallerkener
+Kodenøgle:
+abcdefghijklmnopqrstuvwxyzæøå
+yzæøåabcdefghijklmnopqrstuvwx
+Kodetekst:
+a-y: Piøåm øå mwøå oyggåmfåiåm
+
+Gruppe 6:
+------------------------------
+
+Post 21
+Placering: Under de røde kopper
+Klartekst: Under trappens andet trin
+Kodetekst:
+morse: ///··-/-·/-··/·/·-·//-/·-·/·-/·--·/·--·/·/-·/···//·-/-·/-··/·/-//-/·-·/··/-·///
+
+Post 22
+Placering: Under kassen med klude
+Klartekst: Under trappens første trin
+Kodetekst:
+morse: ///··-/-·/-··/·/·-·//-/·-·/·-/·--·/·--·/·/-·/···//··-·/---·/·-·/···/-/·//-/·-·/··/-·///
+
+Post 23
+Placering: Under de blå tallerkener
+Klartekst: Under trappens tredje trin
+Kodetekst:
+morse: ///··-/-·/-··/·/·-·//-/·-·/·-/·--·/·--·/·/-·/···//-/·-·/·/-··/·---/·//-/·-·/··/-·///
+
+Post 24
+Placering: Under de røde tallerkener
+Klartekst: Under trappens fjerde trin
+Kodetekst:
+morse: ///··-/-·/-··/·/·-·//-/·-·/·-/·--·/·--·/·/-·/···//··-·/·---/·/·-·/-··/·//-/·-·/··/-·///
