@@ -3,6 +3,7 @@ a = ord('a')
 alphabet = "".join(chr(a+x) for x in range(26)) + "æøå"
 del a
 
+
 class AtoK:
     """
     The "A to K" cipher
@@ -15,13 +16,14 @@ class AtoK:
     Decoding: as above, but reversed; Look up the cipher character,
     and replace it with the clear character.
     """
+
     def __init__(self, k="k"):
         # Number of positions to shift
         self.shift = alphabet.index(k)
-        # 
+        #
         self.shifted = alphabet[self.shift:] + alphabet[:self.shift]
 
-    def encode_char(self, c:str):
+    def encode_char(self, c: str):
         lc = c.lower()
         if lc in alphabet:
             inx = alphabet.index(lc)
@@ -30,7 +32,7 @@ class AtoK:
         else:
             return c
 
-    def encode(self, s:str) -> str:
+    def encode(self, s: str) -> str:
         return ''.join(map(self.encode_char, s))
 
     def alphabets(self):

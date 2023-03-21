@@ -41,13 +41,13 @@ alphabet = map(str.split, alphabet)
 alphabet = dict(alphabet)
 
 
-def encode_word(word:str) -> str:
+def encode_word(word: str) -> str:
     symbols = map(alphabet.get, word.lower())
     return '/'.join(symbols)
 
-def MorseEncode(s:str) -> str:
+
+def MorseEncode(s: str) -> str:
     s = s.split()
     words = map(encode_word, s)
     sentence = '//'.join(words)
     return f"///{sentence}///"
-    

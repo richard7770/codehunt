@@ -2,13 +2,17 @@ from .cipher_atok import AtoK
 from .cipher_spejd import Spejd
 from .cipher_morse import MorseEncode
 
-def make_routes(lead_lines: str):
+
+def make_routes(lead_lines: str, no_of_routes: int, show_sequential=True, show_grouped=False, rotate_routes=False):
 
     leads = lead_lines.strip().splitlines(False)
 
+    if len(leads) % no_of_routes != 0:
+        raise Exception(
+            f"The number of leads ({len(leads)}) should be a multiple of no_of_routes ({no_of_routes}).")
+
     # List of all places
     entries = []
-    no_of_routes = 4
 
     # Grouping the entries of each route
     routes = [[] for x in range(no_of_routes)]
@@ -20,7 +24,7 @@ def make_routes(lead_lines: str):
         entry = {}
         entries.append(entry)
         group_index = n//no_of_routes
-        route_index = n%no_of_routes
+        route_index = n % no_of_routes
         groups[group_index].append(entry)
         routes[route_index].append(entry)
         cipher_spec, clear_text = lead.split(':')
@@ -43,51 +47,54 @@ def make_routes(lead_lines: str):
             entry.update(coded=coded, alphabets=alphabets)
             # print(f"{alphabets}\n{coded}\n")
 
-
     initialLocation = "*** Udleveres ***"
     # Shift starting group
-    for ir, rt in enumerate(routes):
-        for ii in range(ir):
-            head = rt.pop(0)
-            rt.append(head)
+    for index, route in enumerate(routes):
+        if rotate_routes:
+            # Rotate the routes, making it so that they start in different groups
+            for ii in range(index):
+                head = route.pop(0)
+                route.append(head)
+        # Add location information to each entry
+        # - It should be the clear text of the previous entry
         location = initialLocation
-        for entry in rt:
+        for entry in route:
             entry.update(location=location)
             location = entry['clear_text']
-        endmark = dict(n=100, location=location, coded="*** SLUT ***", clear_text="*** SLUT ***", cipher_spec="", alphabets=None)
-        rt.append(endmark)
+        # Append the final entry
+        endmark = dict(n=100, location=location, coded="*** SLUT ***",
+                       clear_text="*** SLUT ***", cipher_spec="", alphabets=None)
+        route.append(endmark)
 
     # Shift starting group
     def helpForMark(entry):
         alphabets = entry['alphabets']
         return f"Kodenøgle:\n{''.join(alphabets)}\n" if alphabets else ""
 
+    if show_sequential:
+        for index, route in enumerate(routes):
+            print()
+            print(f"Rute {index+1}:")
+            print("-" * 30)
+            for entry in route:
+                print()
+                param = dict(help=helpForMark(entry), **entry)
+                print("Post {n}".format(**param))
+                print("Placering: {location}".format(**param))
+                print("Klartekst: {clear_text}".format(**param))
+                print("{help}Kodetekst:".format(**param))
+                print("{cipher_spec}: {coded}".format(**param))
 
-    for ir, rt in enumerate(routes):
-        print()
-        print( f"Rute {ir+1}:")
-        print( "-" * 30)
-        for entry in rt:
-            print( """
-    Post {n}
-    Placering: {location}
-    Klartekst: {clear_text}
-    {help}Kodetekst:
-    {cipher_spec}: {coded}""".format(help=helpForMark(entry), **entry))
-
-
-
-    for ir, rt in enumerate(groups):
-        print()
-        print( f"Gruppe {ir+1}:")
-        print( "-" * 30)
-        for entry in rt:
-            print( """
-    Post {n}
-    Placering: {location}
-    Klartekst: {clear_text}
-    {help}Kodetekst:
-    {cipher_spec}: {coded}""".format(help=helpForMark(entry), **entry))
-
-
-
+    if show_grouped:
+        for index, route in enumerate(groups):
+            print()
+            print(f"Gruppe {index+1}:")
+            print("-" * 30)
+            for entry in route:
+                print()
+                param = dict(help=helpForMark(entry), **entry)
+                print("Post {n}".format(**param))
+                print("Placering: {location}".format(**param))
+                print("Klartekst: {clear_text}".format(**param))
+                print("{help}Kodetekst:".format(**param))
+                print("{cipher_spec}: {coded}".format(**param))

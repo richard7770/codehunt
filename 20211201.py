@@ -1,6 +1,6 @@
 from python.make_routes import make_routes
 
-make_routes ("""
+make_routes("""
 juletræ:Stuedørens bund
 vinter:Køleskabets håndtag
 abehånd:Hoveddørens hængsel
@@ -25,4 +25,4 @@ morse:Under trappens andet trin
 morse:Under trappens første trin
 morse:Under trappens tredje trin
 morse:Under trappens fjerde trin
-""")
+""", no_of_routes=4, show_grouped=True, rotate_routes=True)
